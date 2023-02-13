@@ -4,7 +4,7 @@ const DownloadResume = () => {
     <section>
       <a
         className="download-btn"
-        href="https://image-assets-bucket.s3.ap-south-1.amazonaws.com/Abdullah%20tahir%20resume%20%282%29-1669449273180.docx"
+        href="https://image-assets-bucket.s3.ap-south-1.amazonaws.com/Abdullah%20tahir%20resume-1676265082803.docx"
         download="Abdullah Tahir"
       >
         <img

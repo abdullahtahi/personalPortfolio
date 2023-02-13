@@ -1,7 +1,7 @@
 const ExperienceData = [
   {
     id: 1,
-    jobtitle: "InternShip",
+    jobtitle: "Internship",
     companyname: "Numl university",
     worktype: "Full-time",
     duration: "Jan 2020 - Oct 2021",
@@ -13,15 +13,15 @@ const ExperienceData = [
   },
   {
     id: 2,
-    jobtitle: "Junior Developer",
-    companyname: "Quiad Software House",
+    jobtitle: " Internship",
+    companyname: "Quaid Software House",
     worktype: "Full-time",
     duration: "Oct 2021 - March 2022",
     location: "Rawalpindi, Pakistan",
     responsibility: [
-      `Working as a junior developer in company basically work on the problem solving techniques`,
+      `Working as a intern in company basically work on the problem solving techniques`,
       `Performing work as the Front hand developer`,
-      `Lately permoted as a full stack devloper and having a grip on the Backend and Fronthand developement.`,
+      `Lately permoted as a  junior full stack devloper and having a grip on the Backend and Fronthand developement.`,
       `Make different Admins Panels and projects`,
     ],
   },
@@ -33,7 +33,7 @@ const ExperienceData = [
     duration: "May 2022 - onward",
     location: "Islamabad, Pakistan",
     responsibility: [
-      `Working on the different project like 3d printing shirts,trips websites and realState`,
+      `Working on the different project like 3d printing shirts,trips,realState,Busniess websites `,
       `Interacting with client to generate highly engaging  products.`,
       `Researching targets to ensure the highest quality of the code.`,
     ],
